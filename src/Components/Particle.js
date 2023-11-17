@@ -114,7 +114,7 @@ export class Particle extends Component {
 					  }
 					},
 					"retina_detect": true
-				  }}/>
+				 }}/>
             </div>
         )
     }
