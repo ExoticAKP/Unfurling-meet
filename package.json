@@ -61,6 +61,6 @@
   },
   "description": "Google Meet / Zoom clone in a few lines of code.",
   "main": "index.js",
-  "author": "Aditya Harsh",
+  "author": "Amit",
   "license": "ISC"
 }
